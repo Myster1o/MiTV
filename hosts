@@ -1,5 +1,7 @@
 ##### Default loopback address
 127.0.0.1 localhost
+##### PlayStation
+0.0.0.0 account.np.ac.playstation.net 
 ##### MiTV: ads
 0.0.0.0 api.ad.xiaomi.com
 0.0.0.0 sdkconfig.ad.xiaomi.com
